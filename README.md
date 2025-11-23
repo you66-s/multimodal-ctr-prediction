@@ -47,6 +47,6 @@ Le projet est structuré pour fournir une solution **modulaire, scalable et indu
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/mmctr-project.git
+git clone https://github.com/you66-s/multimodal-ctr-prediction
 cd mmctr-project
 pip install -r requirements.txt
